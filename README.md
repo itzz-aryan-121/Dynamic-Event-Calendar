@@ -1,8 +1,27 @@
-# React + Vite
+# Callyyy 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
 
-Currently, two official plugins are available:
+1. Drag-and-Drop Rescheduling: Easily move events between days or reorder within a day.
+2. Export Options: Export monthly events as JSON or CSV files.
+3. Edit & Delete: Update or remove events directly from the list.
+4. Real-Time Updates: Instantly reflects changes like rescheduling or edits.
+5. Modern UI: Clean, responsive design for seamless usability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Instructions to Run the App Locally
+
+  Clone the Repository:
+  git clone <repository-url>
+  cd <repository-directory>
+  
+# Install Dependencies:
+
+Make sure you have Node.js installed, then run:
+
+  npm install
+
+Go in terminal and run : npm run dev
+
+and it will redirect to http://localhost:5173
+
+Live Link: https://eventdy.vercel.app/
